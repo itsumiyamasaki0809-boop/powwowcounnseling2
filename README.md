@@ -858,7 +858,7 @@ height: 2.2rem;
 </section>
 
 <div class="section">
-<h2 class="section-title">こんなお悩み、ありませんか？</h2>
+<h2 class="section-title">こんなお悩み、少しでもあればチェック！</h2>
 <div class="symptom-grid" id="symptom-grid">
 <button type="button" class="symptom-card" data-symptom>
 <span class="symptom-check">✓</span>
@@ -878,7 +878,7 @@ height: 2.2rem;
 <button type="button" class="symptom-card" data-symptom>
 <span class="symptom-check">✓</span>
 <span class="symptom-icon">🌡</span>
-<p class="symptom-text">足のむくみ・<br>冷え・便秘がち</p>
+<p class="symptom-text">肩こり・首こり・足のむくみ・<br>冷え・便秘</p>
 </button>
 </div>
 <p class="symptom-hint" id="symptom-hint">気になるものをすべてタップしてから、下のボタンを押してください👆</p>
